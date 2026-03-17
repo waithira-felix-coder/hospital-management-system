@@ -1,4 +1,4 @@
-# Hospital Management System (HMS) 🏥
+# FAJG Hospital Management System 
 
 ## Overview
 The Hospital Management System is a web-based application built with PHP and MySQL. It streamlines hospital operations, making it easier to manage patients, doctors, appointments, and medical records in one centralized system.
